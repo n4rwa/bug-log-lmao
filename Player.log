@@ -1,0 +1,1890 @@
+Mono path[0] = 'D:/gry/RimWorld Ideology/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/gry/RimWorld Ideology/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.26f1 (e0392c6b2363)
+[Subsystems] Discovering subsystems at path D:/gry/RimWorld Ideology/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.091 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.128000 ms
+[Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimWorld 1.3.3066 rev1166
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-000001717576D030.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-000001715189D4C0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171756070B0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171756A6A20.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759480C0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171756DAA30.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175644010.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171516F50A0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759614D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759A28F0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171756DD560.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175102ED0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759BC900.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017151877170.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759D3720.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171759F9350.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175A02970.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175A03F80.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175A3A3C0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175A435D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175B16180.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171516FD0C0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175AE94E0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175B1ADA0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175B333B0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176A40080.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175BF47D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176B18180.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176B4B9A0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175C083F0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176AEB190.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171517010D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176B7D5D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176B825E0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176C63020.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176C69C40.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175C0C780.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176D4D020.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176D6A040.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176E3B660.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176E42280.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176E54AA0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176F26EE0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176F2C2F0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176F58B10.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017176F5E920.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017177024F40.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171780EC040.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-000001717715B030.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017177161450.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017177169070.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-000001717716C680.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171771928A0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171771CD2D0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171771E9AE0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171771FDCF0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017175338090.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017177297430.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171775754E0.dll
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-00000171778190C0.dll
+[HugsLib] version 9.0.1
+[VanillaAchievementsExpanded] version 1.3.7862
+DependencyChecker!
+Fallback handler could not load library D:/gry/RimWorld Ideology/RimWorldWin64_Data/Mono/data-0000017177570070.dll
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+Exception loading list element from XML: System.TypeLoadException: Type AlphaBehavioursAndEvents.RitualRoleDryad has invalid vtable method slot 8 with method none
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00018] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x000a8] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x00519] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0 
+XML:
+<roles><li Class="RitualRoleTag"><label>ocular priest</label><tag>AA_IdeoRole_OcularPriest</tag><id>ocularpriest</id><precept>AA_IdeoRole_OcularPriest</precept><required>True</required><maxCount>1</maxCount><countsAsParticipant>False</countsAsParticipant></li><li Class="RitualRoleAnimal"><label>sacrifice</label><id>animal</id><maxCount>1</maxCount><minBodySize>0</minBodySize><required>True</required><missingDesc>a tamed animal, the bigger the better</missingDesc><countsAsParticipant>False</countsAsParticipant><ignoreBleeding>true</ignoreBleeding></li><li Class="AlphaBehavioursAndEvents.RitualRoleDryad"><label>channel</label><id>dryad</id><maxCount>1</maxCount><required>True</required><missingDesc>an ocular dryad from a corrupted gauranlen tree</missingDesc><countsAsParticipant>False</countsAsParticipant><ignoreBleeding>true</ignoreBleeding></li></roles> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <uiIconPathsStuff><li><appearance>Planks</appearance><iconPath>FineWall/FineWallPlanks_MenuIcon</iconPath></li><li><appearance>Bricks</appearance><iconPath>FineWall/FineWallBricks_MenuIcon</iconPath></li></uiIconPathsStuff> doesn't correspond to any field in type ThingDef. Context: <ThingDef ParentName="BuildingBase"><category>Building</category><thingClass>Building</thingClass><soundImpactDefault>BulletImpact_Metal</soundImpactDefault><selectable>true</selectable><drawerType>MapMeshOnly</drawerType><terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded><repairEffect>Repair</repairEffect><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled><filthLeaving>Filth_RubbleBuilding</filthLeaving><statBases><SellPriceFactor>0.70</SellPriceFactor><MaxHitPoints>300</MaxHitPoints><WorkToBuild>335</WorkToBuild><Flammability>1.0</Flammability><MeditationFocusStrength>0.22</MeditationFocusStrength><Beauty>3</Beauty></statBases><defName>VFEArch_FineWall</defName><label>fine wall</label><description>A beautiful, impassable wall. Capable of holding up a roof.</description><graphicData><texPath>FineWall</texPath><graphicClass>Graphic_Appearances</graphicClass><linkType>CornerFiller</linkType><linkFlags><li>Wall</li><li>Rock</li></linkFlags><damageData><cornerTL>Damage/Corner</cornerTL><cornerTR>Damage/Corner</cornerTR><cornerBL>Damage/Corner</cornerBL><cornerBR>Damage/Corner</cornerBR><edgeTop>Damage/Edge</edgeTop><edgeBot>Damage/Edge</edgeBot><edgeLeft>Damage/Edge</edgeLeft><edgeRight>Damage/Edge</edgeRight></damageData></graphicData><uiIconPath>FineWall/FineWallSmooth_MenuIcon</uiIconPath><uiIconPathsStuff><li><appearance>Planks</appearance><iconPath>FineWall/FineWallPlanks_MenuIcon</iconPath></li><li><appearance>Bricks</appearance><iconPath>FineWall/FineWallBricks_MenuIcon</iconPath></li></uiIconPathsStuff><costStuffCount>10</costStuffCount><altitudeLayer>Building</altitudeLayer><passability>Impassable</passability><blockWind>true</blockWind><castEdgeShadows>true</castEdgeShadows><fillPercent>1</fillPercent><coversFloor>true</coversFloor><placingDraggableDimensions>1</placingDraggableDimensions><tickerType>Never</tickerType><rotatable>false</rotatable><neverMultiSelect>true</neverMultiSelect><useStuffTerrainAffordance>true</useStuffTerrainAffordance><holdsRoof>true</holdsRoof><designationCategory>Structure</designationCategory><staticSunShadowHeight>1.0</staticSunShadowHeight><blockLight>true</blockLight><canOverlapZones>false</canOverlapZones><fertility>0</fertility><stuffCategories><li>Metallic</li><li>Woody</li><li>Stony</li></stuffCategories><building><isInert>true</isInert><isPlaceOverableWall>true</isPlaceOverableWall><ai_chillDestination>false</ai_chillDestination><blueprintGraphicData><texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath></blueprintGraphicData></building><comps><li Class="CompProperties_MeditationFocus"><statDef>MeditationFocusStrength</statDef><focusTypes><li>Minimal</li></focusTypes></li><li><compClass>QualityOfBuilding.QualityCheckComp</compClass></li></comps><damageMultipliers><li><damageDef>Bomb</damageDef><multiplier>2</multiplier></li><li><damageDef>Thump</damageDef><multiplier>4</multiplier></li></damageMultipliers></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named MinifiedTree found to give to Verse.ThingDef AB_AlienTree 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named MinifiedTree found to give to Verse.ThingDef AB_HalfAlienTree 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named BeautyOutdoors found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+found 1 mutations with null or animal influence
+EtherFurredLimb
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=6811 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6811 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6813 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6813 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6815 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6815 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6817 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6817 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6825 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6825 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6827 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6827 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6829 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6829 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6839 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6839 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6843 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6843 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6851 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6851 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6911 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6911 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6913 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6913 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6915 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6915 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6917 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6917 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6925 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6925 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6927 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6927 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6929 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6929 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6939 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6939 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6943 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6943 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=6963 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=6963 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Null method for legodude17.mvcf
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <c38a8c3281a047488dac8c9d063b7abb>:0 
+  at MVCF.Harmony.VerbPatches.DoHediffPatches (HarmonyLib.Harmony harm) [0x0002d] in <9707d6a62b0f450bab4ac506e5ebc399>:0 
+  at MVCF.Base.ApplyPatches () [0x00159] in <9707d6a62b0f450bab4ac506e5ebc399>:0 
+  at MVCF.Base.CollectFeatureData () [0x00239] in <9707d6a62b0f450bab4ac506e5ebc399>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RimHUD v1.9.1] Initialized
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wall Light: v1.3.7890.36463
+Wall Light in SoS2 compatibility mode.
+Smokeleaf Industry: successfully completed 1 harmony patches.
+[Quality Of Building] patched
+Loaded body addon variants for Human
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Animusmorph/AnimusVox_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Tail: 1
+
+Loaded body addon variants for SnakeMorph
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Animusmorph/AnimusVox_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Cobra/Cobra_Tail: 1
+Variants found for Parts/iguanaface/iguanatail: 1
+
+Loaded body addon variants for AA_AerofleetMorph
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Animusmorph/AnimusVox_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Aerofleetmorph/Aerofleetmorph_Head_Male: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Aerofleetmorph/Aerofleetmorph_Head_Female: 1
+
+Loaded body addon variants for AA_HelixienMorph
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Animusmorph/AnimusVox_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Face: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Tail: 1
+Loading variants for Parts/None/None
+Variants found for Parts/None/None: 1
+Variants found for Parts/Helixienmorph/Helixien_Tail: 1
+
+Alien race successfully completed 178 patches with harmony.
+in Alpha Animals found 3 morph defs missing injectorDef and injectorProperties:
+AA_AerofleetMorph
+AA_AnimusMorph
+AA_HelixienMorph
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of Pawnmorph.PawnmorpherModInit: System.TypeInitializationException: The type initializer for 'Pawnmorph.PawnmorpherModInit' threw an exception. ---> Pawnmorph.ModInitializationException: while initializing Pawnmorpher caught exception ModInitializationException ---> Pawnmorph.ModInitializationException: while generating genomes caught exception MissingFieldException ---> System.MissingFieldException: Field 'Verse.ThingDef.allowedArchonexusCount' not found.
+  at Pawnmorph.Things.InjectorGenerator.GenerateInjectorDefs () [0x00025] in <7369c2483a6447e98d4db1632bec69e1>:0 
+  at Pawnmorph.PMImplicitDefGenerator.GenerateImplicitDefs () [0x00018] in <7369c2483a6447e98d4db1632bec69e1>:0 
+  at Pawnmorph.PawnmorpherModInit..cctor () [0x0006e] in <7369c2483a6447e98d4db1632bec69e1>:0 
+   --- End of inner exception stack trace ---
+  at Pawnmorph.PawnmorpherModInit..cctor () [0x00094] in <7369c2483a6447e98d4db1632bec69e1>:0 
+   --- End of inner exception stack trace ---
+  at Pawnmorph.PawnmorpherModInit..cctor () [0x000b5] in <7369c2483a6447e98d4db1632bec69e1>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+encountered null in MassPatchFormerHumanChecks! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patched:
+CanUseBedEver
+IsWildMan
+AnimalOrWildMan
+NonHumanlikeOrWildMan
+WildManShouldReachOutsideNow
+PawnCanOpen
+PawnsInFaction
+SpawnedPawnsInFaction
+FreeHumanlikesOfFaction
+FreeHumanlikesSpawnedOfFaction
+PrepareToIngestToils
+GetThoughts
+DoAnimalInsanityPulse
+<TryFindRandomAnimal>b__0
+CanReceiveRandomInteraction
+CanInitiateRandomInteraction
+SocialFightPossible
+TryInteractWith
+OpinionOf
+OpinionExplanation
+Tick_CheckStartMarriageCeremony
+CheckAppendBondedAnimalDiedInfo
+Notify_RescuedBy
+HasJobOnThing
+CanDesignateThing
+ShouldHaveThought
+Counts
+<GetRitualBeginWindow>b__1
+CanEverSpectate
+AppliesToPawn
+AppliesToPawn
+AppliesToPawn
+PawnNotAssignableReason
+IsSociallyProper
+CanRoamNow
+
+Instruction insertion complete!
+Patching WorkGiver Tamed
+[ShowDrafteesWeapon] Initialized
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer for 1.3] Initializing.... 
+Found Map Reroll
+Error in static constructor of MapDesigner.Patches.HarmonyPatches+MapDesigner: System.TypeInitializationException: The type initializer for 'MapDesigner' threw an exception. ---> System.TypeLoadException: Failure has occurred while loading a type.
+  at MapDesigner.Patches.HarmonyPatches+MapDesigner..cctor () [0x00253] in <7a1b9982489a440f84f2cc34927dcd46>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x0001a] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][ERR] Quickstart aborted: errors detected in log 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Patching WorkGiver Tamed
+[HugsLib] initializing ShipInteriorMod2, LWM_DeepStorage, GiddyUpCore, BattleMounts, Linkolas.Stabilize, HeatMap, MapReroll
+[MapReroll] Applied Prepare Carefully compatibility layer. Note: removing Prepare Carefully after starting a new game will now cause errors, but these can be safely ignored.
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception getting types in assembly AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Pawnmorpher: GenCompCacher caught exception ReflectionTypeLoadException while loading types from AlphaBehavioursAndEvents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null!
+System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Pawnmorph.Utilities.GenCompCacher.LoadTypesFrom (System.Reflection.Assembly assembly, System.Collections.Generic.List`1[T] compTypes) [0x00002] in <7369c2483a6447e98d4db1632bec69e1>:0 
+  at Pawnmorph.Utilities.GenCompCacher..cctor () [0x00035] in <7369c2483a6447e98d4db1632bec69e1>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 28321.
+Total: 639.541700 ms (FindLiveObjects: 1.373200 ms CreateObjectMapping: 2.020600 ms MarkObjects: 636.056200 ms  DeleteObjects: 0.091100 ms)
+
+Exception filling tab RimWorld.Planet.WITab_Terrain: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at MapDesigner.Patches.RockTypesPatch+<>c__DisplayClass0_0.<Finalizer>b__0 (Verse.ThingDef t) [0x00000] in <7a1b9982489a440f84f2cc34927dcd46>:0 
+  at System.Linq.Enumerable+WhereListIterator`1[TSource].ToList () [0x00017] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at MapDesigner.Patches.RockTypesPatch.Finalizer (System.Int32 tile, System.Collections.Generic.IEnumerable`1[Verse.ThingDef]& __result) [0x00095] in <7a1b9982489a440f84f2cc34927dcd46>:0 
+  at (wrapper dynamic-method) RimWorld.Planet.World.RimWorld.Planet.World.NaturalRockTypesIn_Patch2(RimWorld.Planet.World,int)
+  at RimWorld.Planet.WITab_Terrain.FillTab () [0x0032e] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0 
+  at Verse.InspectTabBase+<>c__DisplayClass14_0.<DoTabGUI>b__0 () [0x00039] in <9bdc0a9d1f6744a18eed5eecd85205c5>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced. 
+(Filename:  Line: 580)
+
+Random state stack is not empty. There were more calls to PushState than PopState. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
